@@ -1,2 +1,2 @@
-Clique version of networked rumor spreading
+1Clique version of networked rumor spreading
 
